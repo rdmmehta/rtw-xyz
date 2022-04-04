@@ -1,8 +1,8 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+title: RockTheWorld.xyz
+description: Let’s get rid of Excel Boredom. Excel Tips | Excel Tricks
+author: RTW
+github: 
+about: Guide to all your Excel and World queries. Couldn't find what you're looking for? DM us on Instagram.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -15,8 +15,8 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
+    - icon: fa-instagram
+      link: "https://www.instagram.com/rock.the.world.xyz"
     - icon: fa-twitter
       link: "#"
     - icon: fa-linkedin
@@ -24,10 +24,10 @@ social:
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "#"
 
 share:
-  twitter_username: github.io
+  twitter_username: rdmmehta
   fb_appid: 1749788565247320
 
 urls:
